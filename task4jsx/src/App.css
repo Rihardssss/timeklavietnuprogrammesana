@@ -1,0 +1,38 @@
+.container {
+  text-align: center;
+}
+
+h1 {
+  color: #ec5376;
+  margin-bottom: 20px;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: #546a94;
+  color: white;
+  border: none;
+
+  border-radius: 8px;
+  cursor: pointer;
+  margin-bottom: 20px;
+}
+
+button:hover {
+  background-color: #2d3b56;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li  {
+  background-color: #2f3849;
+  padding: 12px 20px;
+  margin: 10px auto;
+  border-radius: 10px;
+  width: 200px;
+  font-weight: bold;
+
+}
